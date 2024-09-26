@@ -1,2 +1,3 @@
-exercicis Python 2024
-per educar i aprendre
+exercicis / apunts Python 2024
+per educarnos i aprendre'n
+
