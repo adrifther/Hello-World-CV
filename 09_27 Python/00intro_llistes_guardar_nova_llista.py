@@ -1,0 +1,1 @@
+llista = ["com","estas","hola"]
