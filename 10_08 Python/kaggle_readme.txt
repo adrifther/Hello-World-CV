@@ -1,0 +1,1 @@
+sirve para recorrer toda la web de kaggle
